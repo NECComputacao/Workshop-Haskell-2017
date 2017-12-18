@@ -1,6 +1,6 @@
 # Workshop de Haskell (13/12/2017)
 
-Aqui está disponivel o código feito pelo **Professor Alcino Cunhas**, da Universidade do Minho, duranto o workshop de Haskell realizado em 13/12/2017.
+Aqui está disponivel o código feito pelo **Professor Alcino Cunha**, da Universidade do Minho, durante o workshop de Haskell realizado em 13/12/2017.
 
 O código está disponivel no ficheiro `workshop_haskell.hs`
 
